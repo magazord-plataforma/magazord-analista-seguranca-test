@@ -36,15 +36,15 @@ Boa Sorte!
 
      Considere o servidor encaminhado por e-mail acessível via internet
      
-     - Identifique e relacione os serviços expostos publicamente neste servidor, usando ferramentas e métodos a sua escolha.
-     - Levante e descreva as vulnerabilidades identificadas deste ambiente (serviços em execução, sistema operacional, etc), categorizando elas por níveis de criticidade.
+     * Identifique e relacione os serviços expostos publicamente neste servidor, usando ferramentas e métodos a sua escolha.
+     * Levante e descreva as vulnerabilidades identificadas deste ambiente (serviços em execução, sistema operacional, etc), categorizando elas por níveis de criticidade.
        Para este item, conecte na estação usando a **chave SSH** enviada por e-mail.
 
 
   2. **Tarefa 2: Sugestões de melhorias**
      
-     a) Para as situações identificadas na tarefa anterior, inclua para cada item quais as ações de melhorias que precisam ser aplicadas neste servidor para deixá-lo mais seguro, classificando por prioridade as ações levantadas.
-     b) Conecte na console AWS [Magalabs](http://magalabs.signin.aws.amazon.com/console) e sugira melhorias voltadas à segurança (ferramentas, configurações AWS) que possam ser aplicadas no servidor de teste (EC2 > magalab_webserver)
+     * Para as situações identificadas na tarefa anterior, inclua para cada item quais as ações de melhorias que precisam ser aplicadas neste servidor para deixá-lo mais seguro, classificando por prioridade as ações levantadas.
+     * Conecte na console AWS [Magalabs](http://magalabs.signin.aws.amazon.com/console) e sugira melhorias voltadas à segurança (ferramentas, configurações AWS) que possam ser aplicadas no servidor de teste (EC2 > magalab_webserver)
 
 
   4. **Tarefa 3: Resposta a incidentes**
