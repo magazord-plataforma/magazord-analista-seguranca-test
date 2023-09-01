@@ -43,24 +43,24 @@ Boa Sorte!
 
   2. **Tarefa 2: Sugestões de melhorias**
      
-     - Para as situações identificadas na tarefa anterior, inclua para cada item quais as ações de melhorias que precisam ser aplicadas neste servidor para deixá-lo mais seguro, classificando por prioridade as ações levantadas.
-     - Conecte na console AWS [Magalabs](http://magalabs.signin.aws.amazon.com/console) e sugira melhorias voltadas à segurança (ferramentas, configurações AWS) que possam ser aplicadas no servidor de teste (EC2 > magalab_webserver)
+     a) Para as situações identificadas na tarefa anterior, inclua para cada item quais as ações de melhorias que precisam ser aplicadas neste servidor para deixá-lo mais seguro, classificando por prioridade as ações levantadas.
+     b) Conecte na console AWS [Magalabs](http://magalabs.signin.aws.amazon.com/console) e sugira melhorias voltadas à segurança (ferramentas, configurações AWS) que possam ser aplicadas no servidor de teste (EC2 > magalab_webserver)
 
 
-  3. **Tarefa 3: Resposta a incidentes**
+  4. **Tarefa 3: Resposta a incidentes**
      
      Considere a hipotética violação de segurança a seguir:
      
      **_Alguns clientes começaram a reclamar de lentidão e indisponibilidade intermitente dos sites.
      Em rápida verificação feita pela equipe de infraestrutura, foi identificado um aumento em mais de 200% na quantidade de requisições recebidas por minuto nos servidores._**
-     - Liste os passos que você tomaria para identificar e conter a violação.
-     - Descreva como você notificaria as partes interessadas.
-     - Quais ações preventivas tomaria com base neste incidente.
+     * Liste os passos que você tomaria para identificar e conter a violação.
+     * Descreva como você notificaria as partes interessadas.
+     * Quais ações preventivas tomaria com base neste incidente.
 
   
 ## Envio do teste
 
-* Responda o e-mail das credencias com o resultado do teste.
+* **Responda o e-mail das credencias com o resultado do teste.**
 
  > [!IMPORTANT]
  > **Não serão aceitos alterações após o envio.**
