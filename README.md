@@ -32,7 +32,7 @@ Boa Sorte!
 
 ## Tarefas:
 
-  1. **Tarefa 1: Identificação de Vulnerabilidades**
+  1. **Identificação de Vulnerabilidades**
 
      Considere o servidor encaminhado por e-mail acessível via internet
      
@@ -41,13 +41,13 @@ Boa Sorte!
        Para este item, conecte na estação usando a **chave SSH** enviada por e-mail.
 
 
-  2. **Tarefa 2: Sugestões de melhorias**
+  2. **Sugestões de melhorias**
      
      * Para as situações identificadas na tarefa anterior, inclua para cada item quais as ações de melhorias que precisam ser aplicadas neste servidor para deixá-lo mais seguro, classificando por prioridade as ações levantadas.
      * Conecte na console AWS [Magalabs](http://magalabs.signin.aws.amazon.com/console) e sugira melhorias voltadas à segurança (ferramentas, configurações AWS) que possam ser aplicadas no servidor de teste (EC2 > magalab_webserver)
 
 
-  4. **Tarefa 3: Resposta a incidentes**
+  3. **Resposta a incidentes**
      
      Considere a hipotética violação de segurança a seguir:
      
